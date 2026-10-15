@@ -30,3 +30,7 @@ Fork fait une copie d'un repo sur son compte github, en ligne.
 Clone fait une copie d'un repo github sur son pc en local.
 Une branche permet de modifier du code sans que les modifications soient prises en compte dans la branche principale sans une fusion.
 Une branche permet donc de faire des tests sans impacter la branche main, avec la possiblité de supprimer la branche si cela ne fonctionne pas.
+
+
+## Commit de fusion
+731ec3a b087b3b 93c43a0 fix: convenir de 9h45
