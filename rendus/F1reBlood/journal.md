@@ -34,3 +34,9 @@ Une branche permet donc de faire des tests sans impacter la branche main, avec l
 
 ## Commit de fusion
 731ec3a b087b3b 93c43a0 fix: convenir de 9h45
+
+
+## Fetch
+Fetch seul n'aurait pas ajouté la visite libre au fichier local car il rappatrie les modifications du dépot distant sans les écrire en local.
+Il faut donc utiliser merge.
+Un pull par contre aurait ajouté directement visite libre au fichier local.
