@@ -20,3 +20,13 @@ Ceci sont les explications de l'index.
 e701aa5 (origin/main, origin/HEAD) Retirer les dates et presenter le contenu comme un module
 c0bafa4 Harmoniser les supports ENSUP et preciser les deux types de PR
 8fa44d0 Preparer les TP ENSUP et la collecte des rendus
+
+
+## URL de la PR + différence entre fork, clone et branche
+
+https://github.com/AbidHamza/ensup-git-github-2026/pull/5
+
+Fork fait une copie d'un repo sur son compte github, en ligne.
+Clone fait une copie d'un repo github sur son pc en local.
+Une branche permet de modifier du code sans que les modifications soient prises en compte dans la branche principale sans une fusion.
+Une branche permet donc de faire des tests sans impacter la branche main, avec la possiblité de supprimer la branche si cela ne fonctionne pas.
